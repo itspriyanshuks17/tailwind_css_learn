@@ -51,5 +51,5 @@ Step 1: Create a 'build' script to package.json
 Step 2: Open terminal and run the following command:
 
 ```
-npm build
+npm run build
 ```
